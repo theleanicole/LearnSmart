@@ -1,0 +1,16 @@
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester Project.csprojAssemblyReference.cache
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester_Project.Properties.Resources.resources
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester Project.csproj.GenerateResource.cache
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester Project.csproj.CoreCompileInputs.cache
+C:\Users\leatr\source\repos\Semester Project\Semester Project\bin\Debug\Semester Project.exe.config
+C:\Users\leatr\source\repos\Semester Project\Semester Project\bin\Debug\Semester Project.exe
+C:\Users\leatr\source\repos\Semester Project\Semester Project\bin\Debug\Semester Project.pdb
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester Project.exe
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester Project.pdb
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester_Project.MainForm.resources
+C:\Users\leatr\source\repos\Semester Project\Semester Project\bin\Debug\StudentInfo.mdf
+C:\Users\leatr\source\repos\Semester Project\Semester Project\bin\Debug\StudentInfo_log.ldf
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester_Project.LoginForm.resources
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester_Project.SeeClasses.resources
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester_Project.SeeGrades.resources
+C:\Users\leatr\source\repos\Semester Project\Semester Project\obj\Debug\Semester_Project.Help.resources
